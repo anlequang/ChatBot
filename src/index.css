@@ -1,6 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+body {
+  font-family: 'Be Vietnam Pro', sans-serif;
+}
 @layer base {
   :root {
     --background: 0 0% 100%;
